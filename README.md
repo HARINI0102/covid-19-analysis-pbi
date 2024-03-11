@@ -30,7 +30,7 @@ The dataset used for this analysis contains the following information:
 - Deaths: Number of deaths due to COVID-19.
 - Recovered: Number of recovered COVID-19 cases.
 
-The dataset is available in the `dataset` folder of this repository.
+The dataset is available in the (https://www.worldometers.info/coronavirus/)
 ## Usage
 
 Overview: Summary of the total confirmed cases, deaths, and recoveries worldwide.
@@ -42,7 +42,7 @@ Time-series Analysis: Trends and patterns of COVID-19 cases over time.
 
 To run the Power BI report download the attached (.pbix) file 
 
-##Contribution
+## Contribution
 
 Contributions to this project are welcome! If you have any suggestions, improvements, or new features to add, please follow these steps:
 
